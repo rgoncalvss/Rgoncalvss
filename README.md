@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rgoncalvss
 - 👀 I’m interested in machine learning, AI's or anithyng that involves tecnologies.
-- 🌱 I’m currently learning to program in C++.
+- 🌱 I’m currently learning to program in Java.
 - 💞️ I look to collaborate with any project that enhances or teaches new knowledge.
 - 📫 How to reach me: carolinor7@gmail.com
