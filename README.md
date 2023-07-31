@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Rgoncalvss
-- 👜 I’m currently working with C and Zigbee for IoT solutions.
-- 📖 I’m currently learning to program in Python.
-- 💞️ I look to collaborate with any project that enhances or teaches new knowledge.
+- 👜 I’m currently working with C and Zigbee for IoT solutions and as well with Back-End developtment.
 - 📫 How to reach me: carolinor7@gmail.com
 
 <div style="display: inline_block"><br>
