@@ -2,13 +2,10 @@
 <h3 align="center">A passionate backend developer from Brazil</h3>
 <img align="right" alt="COding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rgoncalvss&label=Profile%20views&color=0e75b6&style=flat" alt="rgoncalvss" /> </p>
-
 - 🌱 I’m currently learning **NodeJs and ExpressJs**
 
 - 📫 How to reach me **https://www.linkedin.com/in/rafael-carolino/**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
