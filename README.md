@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael Carolino</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
-<img align="right" alt="COding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 - 🌱 I’m currently learning **NodeJs and ExpressJs**
 
